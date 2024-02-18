@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Semih Özdemir</h1>
 <h3 align="center">A passionate data scientist.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=semihstats&label=Profile%20views&color=0e75b6&style=flat" alt="semihstats" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semihstats" alt="semihstats" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
 - 📫 How to reach me **www.linkedin.com/in/semihstats**
